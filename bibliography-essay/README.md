@@ -13,9 +13,6 @@ This essay details a few of the curricular materials that were used to establish
 ## Interdisciplinarity in Data Science Pedagogy: A Foundational Design
 
 This article demonstrates that an interdisciplinary approach to teaching data science can be effective — as shown through the case study of creating an “introduction to data science” course at a mid-western regional university. 
-
-<param ve-iframe src="https://www.tandfonline.com/doi/abs/10.1080/08874417.2018.1496803/">
-
 While these courses were taught across the Management Information Systems and Computer Science fields, this paper has some interesting information about how they structured the course and assessments about how the students rated their learning experiences. It also includes a literature review that discusses previous scholarship in interdisciplinary pedagogy.[^1]
 
 <param ve-image label="Screenshot from Taylor & Francis Online" description="a screenshot of the webpage for the “Interdisciplinary in Data Science Pedagogy” webpage" license="Copyright © 2022 Informa UK Limited" url="https://lore3581.github.io/da4a-juncture/bibliography-essay/Interdisciplinarity-in-Data-Science-Pedagogy.png">
@@ -26,7 +23,26 @@ This article, published in 2015, reviews an experimental undergraduate course th
 
 <param ve-iframe src="https://arxiv.org/pdf/1503.05570.pdf">
 
+## Designing Tools and Activities for Data Literacy Learners
+
+This article discusses how several tools used to encourage and explore data-centric thinking have been created for data users and not data learners—so it explores the tools currently available in the data literacy space, advocating for the tool selected to be strongly focused, well guided, very inviting, and highly expandable. It also discusses practical applications in a case study.[^3]
+
+<param ve-iframe src="https://www.media.mit.edu/publications/designing-tools-and-activities-for-data-literacy-learners/">
+
+<param ve-iframe src="http://www.dataliteracy.eita.org.br/">
+
+<param ve-iframe src="http://www.kanarinka.com/wp-content/uploads/2015/07/DataLiteracyRahulCatherine.pdf">
+
+<param ve-image label="Figure 1 from Designing Tools and Activities for Data Literacy Learners: informally mapping out some data tools to compare learn-ability and flexibility” url="https://lore3581.github.io/da4a-juncture/bibliography-essay/Designing-Tools-and-Activities-for-Data-Literacy-Learners.png">
+
+## The Data Storytelling Workbook
+
+This book includes an introduction and five chapters: 1. A Narrative Approach to Data Storytelling, 2. Navigating Data's Unequal Terrain, 3. Visual Data Storytelling, 4. Data Storytelling with Maps, and 5. Future-Proof Principles. According to the description, it combines real-life scenarios with critical reflection and creative solutions in the data storytelling process — while also taking into consideration the ethics of visualizing difficult subjects.[^4] Learn more about this workbook [at Routledge's website.](https://www.routledge.com/The-Data-Storytelling-Workbook/Feigenbaum-Alamalhodaei/p/book/9781138052116) 
+
+<param ve-iframe src="https://books.google.com/books?id=ANLVDwAAQBAJ&newbks=0&lpg=PA1&pg=PA1&output=embed">
 
 # Bibliography
 [^1]: Asamoah, Daniel Adomako, et al. “Interdisciplinarity in Data Science Pedagogy: A Foundational Design.” Journal of Computer Information Systems, vol. 60, no. 4, July 2020, pp. 370–77. Taylor and Francis+NEJM, [https://doi.org/10.1080/08874417.2018.1496803](https://doi.org/10.1080/08874417.2018.1496803).
 [^2]: Baumer, Ben. “A Data Science Course for Undergraduates: Thinking With Data.” The American Statistician, vol. 69, no. 4, Oct. 2015, pp. 334–42. Taylor and Francis+NEJM, [https://doi.org/10.1080/00031305.2015.1081105](https://doi.org/10.1080/00031305.2015.1081105). 
+[^3]: Bhargava, Rahul, and Catherine D’Ignazio. Designing Tools and Activities for Data Literacy Learners. p. 5.
+[^4] Feigenbaum, Anna., Alamalhodaei, Aria. The Data Storytelling Workbook. United Kingdom: Taylor & Francis, 2020.
