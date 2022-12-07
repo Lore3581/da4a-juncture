@@ -14,9 +14,11 @@ This essay details a few of the curricular materials that were used to establish
 
 This article demonstrates that an interdisciplinary approach to teaching data science can be effective — as shown through the case study of creating an “introduction to data science” course at a mid-western regional university. 
 
+<param ve-iframe src="https://www.tandfonline.com/doi/abs/10.1080/08874417.2018.1496803/">
+
 While these courses were taught across the Management Information Systems and Computer Science fields, this paper has some interesting information about how they structured the course and assessments about how the students rated their learning experiences. It also includes a literature review that discusses previous scholarship in interdisciplinary pedagogy.[^1]
 
-<param ve-iframe src="https://www.tandfonline.com/doi/abs/10.1080/08874417.2018.1496803">
+<param ve-image label="Screenshot from Taylor & Francis Online" description="a screenshot of the webpage for the “Interdisciplinary in Data Science Pedagogy” webpage" license="Copyright © 2022 Informa UK Limited" url="https://lore3581.github.io/da4a-juncture/bibliography-essay/Interdisciplinarity-in-Data-Science-Pedagogy.png">
 
 ## A Data Science Course for Undergraduates: Thinking With Data
 
