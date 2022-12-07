@@ -14,9 +14,6 @@ banner: https://raw.githubusercontent.com/jstor-labs/juncture-digital/c7d73fb/im
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
-- label: Contact the Juncture team
-  icon: fas fa-envelope
-  action: contact-us
 - label: View page source
   icon: fas fa-file-code
   action: view-markdown
