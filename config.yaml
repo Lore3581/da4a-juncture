@@ -21,7 +21,7 @@ nav:
   icon: fas fa-file-code
   action: load-page
   path: /tutorial-essay
-  - label: Sample bibliography essay
+- label: Sample bibliography essay
   icon: fas fa-file-code
   action: load-page
   path: /bibliography-essay
