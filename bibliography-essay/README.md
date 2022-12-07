@@ -39,11 +39,9 @@ This book includes an introduction and five chapters: 1. A Narrative Approach to
 
 ## Teaching Data Visualization and Storytelling with Data Comic Workshops
 
-This paper proposes a methodology for teaching data comic workshops, which combines three aspects of data comics (data, visualization, and stories) to provide an alternative way for students to engage and communicate using data.
+This paper proposes a methodology for teaching data comic workshops, which combines three aspects of data comics (data, visualization, and stories) to provide an alternative way for students to engage and communicate using data. [^5]
 
-[^5]
-
-<param ve-image label=”PDF of Teaching Data Visualization and Storytelling with Data Comic Workshops” description="This paper presents a method for hands-on creation of data comics in a workshop context and includes a description of the results, lessons learned and future improvements" license="© 2019 Copyright held by the owner/author(s)." url="https://lore3581.github.io/da4a-collectionbuilder/objects/TeachingDataVisualizationandStorytellingwithDataComicWorkshops.pdf">
+<param ve-image label="PDF of Teaching Data Visualization and Storytelling with Data Comic Workshops" description="This paper presents a method for hands-on creation of data comics in a workshop context and includes a description of the results, lessons learned and future improvements" license="© 2019 Copyright held by the owner/author(s)." url="https://lore3581.github.io/da4a-collectionbuilder/objects/TeachingDataVisualizationandStorytellingwithDataComicWorkshops.pdf">
 
 
 # Bibliography
