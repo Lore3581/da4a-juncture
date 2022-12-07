@@ -12,8 +12,7 @@ This essay details a few of the curricular materials that were used to establish
 
 ## Interdisciplinarity in Data Science Pedagogy: A Foundational Design
 
-This article demonstrates that an interdisciplinary approach to teaching data science can be effective — as shown through the case study of creating an “introduction to data science” course at a mid-western regional university. 
-While these courses were taught across the Management Information Systems and Computer Science fields, this paper has some interesting information about how they structured the course and assessments about how the students rated their learning experiences. It also includes a literature review that discusses previous scholarship in interdisciplinary pedagogy.[^1]
+This article demonstrates that an interdisciplinary approach to teaching data science can be effective — as shown through the case study of creating an “introduction to data science” course at a mid-western regional university. <br><br>While these courses were taught across the Management Information Systems and Computer Science fields, this paper has some interesting information about how they structured the course and assessments about how the students rated their learning experiences. It also includes a literature review that discusses previous scholarship in interdisciplinary pedagogy.[^1]
 
 <param ve-image label="Screenshot from Taylor & Francis Online" description="a screenshot of the webpage for the “Interdisciplinary in Data Science Pedagogy” webpage" license="Copyright © 2022 Informa UK Limited" url="https://lore3581.github.io/da4a-juncture/bibliography-essay/Interdisciplinarity-in-Data-Science-Pedagogy.png">
 
@@ -21,7 +20,7 @@ While these courses were taught across the Management Information Systems and Co
 
 This article, published in 2015, reviews an experimental undergraduate course that served as an introduction to data science. One notable difference is that this course required prerequisites including an introductory statistics course and some prior programming experience. That aside, it includes information about what was shared on the first day of class, how topics such as data visualization were taught, and notes on computing and assignments. [^2]
 
-<param ve-iframe src="https://arxiv.org/pdf/1503.05570.pdf">
+<param ve-iframe label="PDF of A Data Science Course for Undergraduates: Thinking With Data" src="https://arxiv.org/pdf/1503.05570.pdf">
 
 ## Designing Tools and Activities for Data Literacy Learners
 
@@ -41,8 +40,7 @@ This book includes an introduction and five chapters: 1. A Narrative Approach to
 
 This paper proposes a methodology for teaching data comic workshops, which combines three aspects of data comics (data, visualization, and stories) to provide an alternative way for students to engage and communicate using data. [^5]
 
-<param ve-image label="PDF of Teaching Data Visualization and Storytelling with Data Comic Workshops" description="This paper presents a method for hands-on creation of data comics in a workshop context and includes a description of the results, lessons learned and future improvements" license="© 2019 Copyright held by the owner/author(s)." url="https://lore3581.github.io/da4a-collectionbuilder/objects/TeachingDataVisualizationandStorytellingwithDataComicWorkshops.pdf">
-
+<param ve-iframe label="PDF of Teaching Data Visualization and Storytelling with Data Comic Workshops" description="This paper presents a method for hands-on creation of data comics in a workshop context and includes a description of the results, lessons learned and future improvements" license="© 2019 Copyright held by the owner/author(s)." src="https://lore3581.github.io/da4a-collectionbuilder/objects/TeachingDataVisualizationandStorytellingwithDataComicWorkshops.pdf">
 
 # Bibliography
 [^1]: Asamoah, Daniel Adomako, et al. “Interdisciplinarity in Data Science Pedagogy: A Foundational Design.” Journal of Computer Information Systems, vol. 60, no. 4, July 2020, pp. 370–77. Taylor and Francis+NEJM, [https://doi.org/10.1080/08874417.2018.1496803](https://doi.org/10.1080/08874417.2018.1496803).
