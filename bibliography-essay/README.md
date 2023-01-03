@@ -46,8 +46,7 @@ This paper proposes a methodology for teaching data comic workshops, which combi
 
 This is an experiment to see if an audio file will work with Juncture. The audio file comes from a different project Lore put togehter for this semester, The Stories We (Re)Tell at https://www.storiesweretell.com/.
 
-<param ve-iframe src="https://www.storiesweretell.com/objects/Lore-Alexa_11-22-22_192kbps.mp3" 
-width="400" height="400" border="0" frameborder="0"  scrolling="no">
+<param ve-iframe src="https://www.storiesweretell.com/objects/Lore-Alexa_11-22-22_192kbps.mp3">
 
 # Bibliography
 [^1]: Asamoah, Daniel Adomako, et al. “Interdisciplinarity in Data Science Pedagogy: A Foundational Design.” Journal of Computer Information Systems, vol. 60, no. 4, July 2020, pp. 370–77. Taylor and Francis+NEJM, [https://doi.org/10.1080/08874417.2018.1496803](https://doi.org/10.1080/08874417.2018.1496803).
