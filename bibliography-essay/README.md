@@ -42,6 +42,13 @@ This paper proposes a methodology for teaching data comic workshops, which combi
 
 <param ve-iframe label="PDF of Teaching Data Visualization and Storytelling with Data Comic Workshops" description="This paper presents a method for hands-on creation of data comics in a workshop context and includes a description of the results, lessons learned and future improvements" license="© 2019 Copyright held by the owner/author(s)." src="https://lore3581.github.io/da4a-collectionbuilder/objects/TeachingDataVisualizationandStorytellingwithDataComicWorkshops.pdf">
 
+## Sample Audio File
+
+This is an experiment to see if an audio file will work with Juncture. The audio file comes from a different project Lore put togehter for this semester, The Stories We (Re)Tell at https://www.storiesweretell.com/.
+
+<iframe src="https://www.storiesweretell.com/objects/Lore-Alexa_11-22-22_192kbps.mp3" 
+width="400" height="400" border="0" frameborder="0"  scrolling="no"></iframe>
+
 # Bibliography
 [^1]: Asamoah, Daniel Adomako, et al. “Interdisciplinarity in Data Science Pedagogy: A Foundational Design.” Journal of Computer Information Systems, vol. 60, no. 4, July 2020, pp. 370–77. Taylor and Francis+NEJM, [https://doi.org/10.1080/08874417.2018.1496803](https://doi.org/10.1080/08874417.2018.1496803).
 [^2]: Baumer, Ben. “A Data Science Course for Undergraduates: Thinking With Data.” The American Statistician, vol. 69, no. 4, Oct. 2015, pp. 334–42. Taylor and Francis+NEJM, [https://doi.org/10.1080/00031305.2015.1081105](https://doi.org/10.1080/00031305.2015.1081105). 
