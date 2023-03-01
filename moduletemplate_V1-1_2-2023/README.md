@@ -74,7 +74,7 @@
     <li style="margin-bottom:10px">Andrew Iliadis and Federica Russo. 2016. <b>“Critical Data Studies: An Introduction.”</b> <i>Big Data & Society 3.2.pp.</i></li>
     <li style="margin-bottom:10px">D’Ignazio, Catherine and Lauren F. Klein. 2020. <b>Data Feminism.</b> Cambridge, MA: MIT Press. Free version at: https://data-feminism.mitpress.mit.edu/. Introduction and Chapter 1.</li>
     <li style="margin-bottom:10px">Gaddy, Marcus and Kassie Scott. (June 2020) <b>“Principles for Advancing Equitable Data Practice.”<b> https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice_0.pdf </li>
-    <li style="margin-bottom:10px">James Herrick. <b>Introduction to Rhetoric.<b></li>
+    <li style="margin-bottom:10px">James Herrick. <b>Introduction to Rhetoric.</b></li>
 
 — — — 
 
