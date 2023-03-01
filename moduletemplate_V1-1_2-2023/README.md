@@ -1,2 +1,2 @@
-.ve-header "<b>Module 1:</b> Defining and Interrogating Data" logo=https://raw.githubusercontent.com/juncture-digital/juncture/main/static/images/juncture-logo.png url=# background=#5B152E
-
+<ve-header label="Module 1: Defining and Interrogating Data" background="" options="pct:3,23,80,20" position="center" sticky subtitle="Essay subtitle">
+</ve-header>
