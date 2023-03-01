@@ -3,9 +3,16 @@ html {
   -ms-text-size-adjust: 100%;
 }
 
+h1 {
+  font-family: montserrat;
+  margin: 20;
+  background-color: white;
+  color: #444;
+}
+
 body {
-  font-family: Roboto, sans-serif;
-  margin: 0;
+  font-family: montserrat;
+  margin: 20;
   background-color: white;
   color: #444;
 }
