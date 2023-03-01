@@ -65,27 +65,7 @@
     </body>
 </p>
 
-— — — —
 
-<body>
-    <body columncount= 4;>
-            <ul style="margin-left:40px; margin-right:40px; font-family:montserrat">
-                <li style="margin-bottom:10px">data</li>
-                <li style="margin-bottom:10px">power</li>
-                <li style="margin-bottom:10px">oppression</li>
-                <li style="margin-bottom:10px">domination</li>
-                <li style="margin-bottom:10px">counterstories</li>
-                <li style="margin-bottom:10px">intersectionality</li>
-                <li style="margin-bottom:10px">privilege hazards </li>
-                <li style="margin-bottom:10px">data science</li>
-                <li style="margin-bottom:10px">data feminism</li>
-                <li style="margin-bottom:10px">rhetoric</li>
-                <li style="margin-bottom:10px">data advocacy</li>
-                <li style="margin-bottom:10px">data justice</li>
-                <li style="margin-bottom:10px">counterdata</li>
-            </ul>
-    </body>
-    
 
 
 <h1 style="color:#BF0A31">1.4 &nbsp;  &nbsp; Module Readings <a name="paragraph2"></a></h1>
