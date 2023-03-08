@@ -1,5 +1,8 @@
-<ve-header label="Module 1:" background="" position="center" sticky subtitle="Defining and Interrogating Data">
-</ve-header>
+<param ve-config 
+       title="Module 1:"
+       subtitle="Defining and Interrogating Data"
+       author="—"
+       banner="https://tdwi.org/-/media/TDWI/TDWI/BITW/ConnectedPeopleBlue.jpg" >
 
 <br><br>
 <h1 style="color:#BF0A31; margin-left:20px; margin-right:40px; font-family:montserrat;">Contents </h1>
