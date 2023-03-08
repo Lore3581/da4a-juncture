@@ -25,6 +25,10 @@ nav:
   icon: fas fa-file-code
   action: load-page
   path: /bibliography-essay
+- label: Template (V1)
+  icon: fas fa-file-code
+  action: load-page
+  path: /moduletemplate_V1-1_2-2023/
 
 # If a contact-us action is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
