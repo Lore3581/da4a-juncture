@@ -1,6 +1,5 @@
 <param ve-config 
        title="Module 1: Defining and Interrogating Data"
-       author=""
        banner="https://lore3581.github.io/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg">
 
 <br><br>
