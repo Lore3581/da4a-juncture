@@ -3,7 +3,7 @@
 
 <br><br>
 <h1 style="color:#BF0A31; margin-left:20px; margin-right:40px; font-family:montserrat;">Contents </h1>
-<font size=""><style="font-family:montserrat;">
+<span font size="" style="font-family:montserrat;">
  &nbsp;  &nbsp;  &nbsp;  &nbsp; 1.1 &nbsp;  &nbsp; [Module Overview](#1-1moduleoverview)<br>
  &nbsp;  &nbsp;  &nbsp;  &nbsp; 1.2 &nbsp;  &nbsp; [Learning Outcomes](#1-2learningoutcomes)<br>
  &nbsp;  &nbsp;  &nbsp;  &nbsp; 1.3 &nbsp;  &nbsp; [Key Concepts](#1-3keyconcepts)<br>
@@ -12,7 +12,7 @@
  &nbsp;  &nbsp;  &nbsp;  &nbsp; 1.6 &nbsp;  &nbsp; [Activity Assignments](#1-6activityassignments)<br>
  &nbsp;  &nbsp;  &nbsp;  &nbsp; 1.7 &nbsp;  &nbsp; [Assessment](#1-7assessment)<br>
  &nbsp;  &nbsp;  &nbsp;  &nbsp; 1.8 &nbsp;  &nbsp; [Bibliography](#1-8bibliography)<br>
-</font></style>
+</span>
 <br>
 
 <section style="background-color:#EFEFEF">
@@ -88,4 +88,6 @@
 <br><h1 style="color:#BF0A31; margin-left:20px; margin-right:40px; font-family:montserrat;"> 1.8 &nbsp;  &nbsp; Bibliography<a name="1-8bibliography"></a></h1>
 <p style="margin-left:40px; margin-right:40px; font-family:montserrat;">Through this module, students will be able to:
 <ul>
-<li>define data and data justice from a data feminist perspective</li>
+<li>define data and data justice from a data feminist perspective</li></ul>
+    
+<param ve-image label="Screenshot from Taylor & Francis Online" description="a screenshot of the webpage for the “Interdisciplinary in Data Science Pedagogy” webpage" license="Copyright © 2022 Informa UK Limited" url="https://lore3581.github.io/da4a-juncture/bibliography-essay/Interdisciplinarity-in-Data-Science-Pedagogy.png">
