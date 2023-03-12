@@ -1,10 +1,10 @@
-.ve-style ./custom.css
-
 <param ve-config 
        title="Data Advocacy"
        author="Lore"
        banner="https://tdwi.org/-/media/TDWI/TDWI/BITW/ConnectedPeopleBlue.jpg" 
        layout="vertical">
+
+.ve-style ./custom.css
 
 # Introduction to Data Advocacy
 
