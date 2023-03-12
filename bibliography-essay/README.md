@@ -1,3 +1,5 @@
+.ve-style ./custom.css
+
 <param ve-config 
        title="Data Advocacy"
        author="Lore"
