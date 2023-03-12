@@ -1,25 +1,5 @@
-# THEME FONTS
-base-font-size: 1.2em
-text-color: "#191919"
-link-color: "#17a2b8"
-base-font-family: 'Montserrat'
-font-cdn: <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
-
-html {
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-}
-
-h1 {
-  font-family: 'Montserrat';
-  margin: 20;
-  background-color: white;
-  color: #BF0A31;
-}
- 
-body {
-  font-family: 'Montserrat';
-  margin: 20;
-  background-color: white;
-  color: #444;
-}
+<style>
+    @import url(//fonts.googleapis.com/css?family=Montserrat);
+    #juncture { font-family: Montserrat; }
+    #juncture h1 { color:##BF0A31; }
+</style>
