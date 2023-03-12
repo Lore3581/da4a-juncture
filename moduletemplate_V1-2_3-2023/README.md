@@ -1,4 +1,4 @@
-ve-style https://fonts.googleapis.com/css?family=Montserrat
+.ve-style https://fonts.googleapis.com/css?family=Montserrat
 
 
     #juncture { font-family: Montserrat; }
@@ -7,10 +7,8 @@ ve-style https://fonts.googleapis.com/css?family=Montserrat
     #concepts ul { columns: 3; -webkit-columns: 3; -moz-columns: 3; }
     #juncture .contents li, #readings li { margin: 0; }
 
-<param ve-config
-title="Module 1: Defining and Interrogating Data"
-author="Compiled by Dr. Laurie Gries"
-banner="https://lore3581.github.io/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg">
+
+.ve-header "Module 1: Defining and Interrogating Data" background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg subtitle="Compiled by Dr. Laurie Gries"
 
 # Contents {.contents}
 
