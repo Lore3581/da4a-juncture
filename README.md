@@ -1,4 +1,5 @@
-.ve-style ./custom.css
+.ve-style 
+./custom.css
 
 # Welcome to Juncture
 
