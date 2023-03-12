@@ -1,4 +1,4 @@
-<style> a.cta { font-family: Montserrat; font-weight: normal; font-size: 1.6rem;} </style>
+.ve-style ./custom.css
 
 # Welcome to Juncture
 
