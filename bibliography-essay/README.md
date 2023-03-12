@@ -36,6 +36,14 @@ This is an experiment to see if an audio file will work with Juncture. The audio
 
 <param ve-iframe src="https://www.storiesweretell.com/objects/Lore-Alexa_11-22-22_192kbps.mp3">
 
+# Sample Data Embedding
+
+After being asked about data manipulation possibilities within the site, I wanted to test to see if a Google Sheets spreadsheet could allow for indivdiuals to experiment with and modify data... but implications of potential vandalism should be considered and explored. 
+
+<param ve-iframe src="https://docs.google.com/spreadsheets/d/1mbv5ZHme7Oie4tV6M73CijV0ZtzOvAowpNSZfxUuIAI/edit?usp=sharing">
+
+<param ve-image label=”Figure 1 from Interdisciplinary in Data Science Pedagogy” description="Figure 1: informally mapping out some data tools to compare learn-ability and flexibility" license="Copyright 1995 by the Massachusetts Institute of Technology" url="https://lore3581.github.io/da4a-juncture/bibliography-essay/Designing-Tools-and-Activities-for-Data-Literacy-Learners.png">
+
 # Bibliography
 [^1]: Asamoah, Daniel Adomako, et al. “Interdisciplinarity in Data Science Pedagogy: A Foundational Design.” Journal of Computer Information Systems, vol. 60, no. 4, July 2020, pp. 370–77. Taylor and Francis+NEJM, [https://doi.org/10.1080/08874417.2018.1496803](https://doi.org/10.1080/08874417.2018.1496803).
 [^2]: Baumer, Ben. “A Data Science Course for Undergraduates: Thinking With Data.” The American Statistician, vol. 69, no. 4, Oct. 2015, pp. 334–42. Taylor and Francis+NEJM, [https://doi.org/10.1080/00031305.2015.1081105](https://doi.org/10.1080/00031305.2015.1081105). 
