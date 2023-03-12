@@ -4,8 +4,6 @@
        banner="https://tdwi.org/-/media/TDWI/TDWI/BITW/ConnectedPeopleBlue.jpg" 
        layout="vertical">
 
-.ve-style ./custom.css
-
 # Introduction to Data Advocacy
 
 This essay details a few of the curricular materials that were used to establish an understanding of data advocacy.
