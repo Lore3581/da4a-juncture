@@ -1,7 +1,4 @@
-<param ve-config 
-       title="Module 1: Defining and Interrogating Data"
-       author="Compiled by Dr. Laurie Gries"
-       banner="https://lore3581.github.io/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg">
+.ve-header "Module 1: Defining and Interrogating Data" url=# background=https://lore3581.github.io/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg
 
 <br><br>
 <h1 style="color:#BF0A31; margin-left:20px; margin-right:40px; font-family:montserrat;">Contents </h1>
