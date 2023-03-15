@@ -42,6 +42,12 @@ After being asked about data manipulation possibilities within the site, I wante
 
 <param ve-iframe src="https://docs.google.com/spreadsheets/d/1mbv5ZHme7Oie4tV6M73CijV0ZtzOvAowpNSZfxUuIAI/edit?usp=sharing">
 
+Here is an attempt to see if an Excel file will render properly from iFrame.
+
+<param ve-iframe src="https://lore3581.github.io/da4a-juncture/bibliography-essay/Sample_Data_Exploration.xlsx">
+
+Here is a miscellaenous image? 
+
 <param ve-image label=”Figure 1 from Interdisciplinary in Data Science Pedagogy” description="Figure 1: informally mapping out some data tools to compare learn-ability and flexibility" license="Copyright 1995 by the Massachusetts Institute of Technology" url="https://lore3581.github.io/da4a-juncture/bibliography-essay/Designing-Tools-and-Activities-for-Data-Literacy-Learners.png">
 
 # Bibliography
