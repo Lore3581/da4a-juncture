@@ -5,7 +5,7 @@
     #concepts ul { columns: 3; -webkit-columns: 3; -moz-columns: 3; }
     #juncture .contents li, #readings li { margin: 0; }
 </style>
-
+ 
 # Contents {.contents}
 
 - 1.1 [Module Overview](#overview)
